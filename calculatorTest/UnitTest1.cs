@@ -4,7 +4,7 @@ namespace calculatorTest
 {
     [TestClass]
     public class UnitTest1
-    {
+    {   //added test cases
         [TestMethod]
         public void shouldaddtwonumbers()
         {
